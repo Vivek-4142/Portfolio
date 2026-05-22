@@ -1,0 +1,14 @@
+node_modules/
+.venv/
+venv/
+dist/
+build/
+.next/
+.cache/
+__pycache__/
+*.zip
+*.mp4
+*.csv
+*.pth
+*.pt
+*.h5
